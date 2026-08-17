@@ -1,0 +1,21 @@
+framework: clinical-educator
+version: 0.1.0
+# Library-level source of truth for competency labels. Labels here win
+# over any session frontmatter. Link esco to the matching ESCO skill
+# URIs as the mapping work is done; null means "not yet mapped".
+competencies:
+  CE1:
+    label: Designing clinical teaching sessions
+    esco: null
+  CE2:
+    label: Teaching in the clinical environment
+    esco: null
+  CE3:
+    label: Assessment and feedback in clinical practice
+    esco: null
+  CE4:
+    label: Supervision and learner support
+    esco: null
+  CE5:
+    label: Evaluating and improving teaching
+    esco: null
