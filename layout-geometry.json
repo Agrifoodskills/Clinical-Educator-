@@ -1,0 +1,294 @@
+{
+  "slide": {
+    "widthEmu": 9144000,
+    "heightEmu": 6858000,
+    "aspect": 1.33333
+  },
+  "layouts": {
+    "Title": {
+      "layoutName": "Title",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.075,
+          "y": 0.31065,
+          "w": 0.85,
+          "h": 0.21435,
+          "type": "center_title"
+        },
+        "subtitle": {
+          "idx": 1,
+          "x": 0.15,
+          "y": 0.56667,
+          "w": 0.7,
+          "h": 0.25556,
+          "type": "subtitle"
+        }
+      }
+    },
+    "Full": {
+      "layoutName": "Full",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.05,
+          "y": 0.04005,
+          "w": 0.9,
+          "h": 0.16667,
+          "type": "title"
+        },
+        "full": {
+          "idx": 1,
+          "x": 0.05,
+          "y": 0.23333,
+          "w": 0.9,
+          "h": 0.65995,
+          "type": "object"
+        }
+      }
+    },
+    "Section": {
+      "layoutName": "Section",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.07899,
+          "y": 0.64259,
+          "w": 0.85,
+          "h": 0.19861,
+          "type": "title"
+        },
+        "subtitle": {
+          "idx": 1,
+          "x": 0.07899,
+          "y": 0.42384,
+          "w": 0.85,
+          "h": 0.21875,
+          "type": "body"
+        }
+      }
+    },
+    "Split": {
+      "layoutName": "Split",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.05,
+          "y": 0.04005,
+          "w": 0.9,
+          "h": 0.16667,
+          "type": "title"
+        },
+        "left": {
+          "idx": 1,
+          "x": 0.05,
+          "y": 0.23333,
+          "w": 0.44167,
+          "h": 0.65995,
+          "type": "object"
+        },
+        "right": {
+          "idx": 2,
+          "x": 0.50833,
+          "y": 0.23333,
+          "w": 0.44167,
+          "h": 0.65995,
+          "type": "object"
+        }
+      }
+    },
+    "Comparison": {
+      "layoutName": "Comparison",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.05,
+          "y": 0.04005,
+          "w": 0.9,
+          "h": 0.16667,
+          "type": "title"
+        },
+        "left_head": {
+          "idx": 1,
+          "x": 0.05,
+          "y": 0.22384,
+          "w": 0.44184,
+          "h": 0.09329,
+          "type": "body"
+        },
+        "left": {
+          "idx": 2,
+          "x": 0.05,
+          "y": 0.31713,
+          "w": 0.44184,
+          "h": 0.57616,
+          "type": "object"
+        },
+        "right_head": {
+          "idx": 3,
+          "x": 0.50799,
+          "y": 0.22384,
+          "w": 0.44201,
+          "h": 0.09329,
+          "type": "body"
+        },
+        "right": {
+          "idx": 4,
+          "x": 0.50799,
+          "y": 0.31713,
+          "w": 0.44201,
+          "h": 0.57616,
+          "type": "object"
+        }
+      }
+    },
+    "Caption": {
+      "layoutName": "Caption",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.05,
+          "y": 0.03981,
+          "w": 0.32899,
+          "h": 0.16944,
+          "type": "title"
+        },
+        "content": {
+          "idx": 1,
+          "x": 0.39097,
+          "y": 0.03981,
+          "w": 0.55903,
+          "h": 0.85347,
+          "type": "object"
+        },
+        "caption": {
+          "idx": 2,
+          "x": 0.05,
+          "y": 0.20926,
+          "w": 0.32899,
+          "h": 0.68403,
+          "type": "body"
+        }
+      }
+    },
+    "Picture": {
+      "layoutName": "Picture",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.19601,
+          "y": 0.7,
+          "w": 0.6,
+          "h": 0.08264,
+          "type": "title"
+        },
+        "picture": {
+          "idx": 1,
+          "x": 0.19601,
+          "y": 0.08935,
+          "w": 0.6,
+          "h": 0.6,
+          "type": "picture"
+        },
+        "caption": {
+          "idx": 2,
+          "x": 0.19601,
+          "y": 0.78264,
+          "w": 0.6,
+          "h": 0.11736,
+          "type": "body"
+        }
+      }
+    },
+    "TitleOnly": {
+      "layoutName": "TitleOnly",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.05,
+          "y": 0.04005,
+          "w": 0.9,
+          "h": 0.16667,
+          "type": "title"
+        }
+      }
+    },
+    "Cards": {
+      "layoutName": "Cards",
+      "regions": {
+        "title": {
+          "idx": 0,
+          "x": 0.05,
+          "y": 0.04005,
+          "w": 0.9,
+          "h": 0.16667,
+          "type": "title"
+        },
+        "head1": {
+          "idx": 1,
+          "x": 0.033,
+          "y": 0.24,
+          "w": 0.22075,
+          "h": 0.07333,
+          "type": "body"
+        },
+        "card1": {
+          "idx": 5,
+          "x": 0.033,
+          "y": 0.31333,
+          "w": 0.22075,
+          "h": 0.63333,
+          "type": "body"
+        },
+        "head2": {
+          "idx": 2,
+          "x": 0.27075,
+          "y": 0.24,
+          "w": 0.22075,
+          "h": 0.07333,
+          "type": "body"
+        },
+        "card2": {
+          "idx": 6,
+          "x": 0.27075,
+          "y": 0.31333,
+          "w": 0.22075,
+          "h": 0.63333,
+          "type": "body"
+        },
+        "head3": {
+          "idx": 3,
+          "x": 0.5085,
+          "y": 0.24,
+          "w": 0.22075,
+          "h": 0.07333,
+          "type": "body"
+        },
+        "card3": {
+          "idx": 7,
+          "x": 0.5085,
+          "y": 0.31333,
+          "w": 0.22075,
+          "h": 0.63333,
+          "type": "body"
+        },
+        "head4": {
+          "idx": 4,
+          "x": 0.74625,
+          "y": 0.24,
+          "w": 0.22075,
+          "h": 0.07333,
+          "type": "body"
+        },
+        "card4": {
+          "idx": 8,
+          "x": 0.74625,
+          "y": 0.31333,
+          "w": 0.22075,
+          "h": 0.63333,
+          "type": "body"
+        }
+      }
+    }
+  }
+}
