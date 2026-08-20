@@ -37,6 +37,12 @@
           "style": {
             "align": "ctr",
             "sizePt": 44.0
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "subtitle": {
@@ -51,6 +57,12 @@
             "sizePt": 32.0,
             "colorSlot": "tx1",
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -68,6 +80,12 @@
           "style": {
             "align": "ctr",
             "sizePt": 44.0
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "full": {
@@ -80,6 +98,12 @@
           "style": {
             "align": "l",
             "sizePt": 32.0
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -99,6 +123,12 @@
             "sizePt": 40.0,
             "bold": true,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "subtitle": {
@@ -114,6 +144,12 @@
             "colorSlot": "tx1",
             "sizePt2": 18.0,
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -131,6 +167,12 @@
           "style": {
             "align": "ctr",
             "sizePt": 44.0
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "left": {
@@ -145,6 +187,12 @@
             "sizePt": 28.0,
             "sizePt2": 24.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "right": {
@@ -159,6 +207,12 @@
             "sizePt": 28.0,
             "sizePt2": 24.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -177,6 +231,12 @@
             "align": "ctr",
             "sizePt": 44.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "left_head": {
@@ -192,6 +252,12 @@
             "bold": true,
             "sizePt2": 20.0,
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "left": {
@@ -206,6 +272,12 @@
             "sizePt": 24.0,
             "sizePt2": 20.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "right_head": {
@@ -221,6 +293,12 @@
             "bold": true,
             "sizePt2": 20.0,
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "right": {
@@ -235,6 +313,12 @@
             "sizePt": 24.0,
             "sizePt2": 20.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -254,6 +338,12 @@
             "sizePt": 20.0,
             "bold": true,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "content": {
@@ -268,6 +358,12 @@
             "sizePt": 32.0,
             "sizePt2": 28.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "caption": {
@@ -282,6 +378,12 @@
             "sizePt": 14.0,
             "sizePt2": 12.0,
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -301,6 +403,12 @@
             "sizePt": 20.0,
             "bold": true,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "picture": {
@@ -315,6 +423,12 @@
             "sizePt": 32.0,
             "sizePt2": 28.0,
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "caption": {
@@ -329,6 +443,12 @@
             "sizePt": 14.0,
             "sizePt2": 12.0,
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -346,6 +466,12 @@
           "style": {
             "align": "ctr",
             "sizePt": 44.0
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         }
       }
@@ -363,6 +489,12 @@
           "style": {
             "align": "ctr",
             "sizePt": 44.0
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.00667,
+            "b": 0.00667
           }
         },
         "head1": {
@@ -378,6 +510,12 @@
             "bold": true,
             "colorSlot": "lt1",
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.0,
+            "b": 0.0
           }
         },
         "card1": {
@@ -392,6 +530,12 @@
             "sizePt": 13.0,
             "sizePt2": 11.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.012,
+            "b": 0.012
           }
         },
         "head2": {
@@ -407,6 +551,12 @@
             "bold": true,
             "colorSlot": "lt1",
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.0,
+            "b": 0.0
           }
         },
         "card2": {
@@ -421,6 +571,12 @@
             "sizePt": 13.0,
             "sizePt2": 11.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.012,
+            "b": 0.012
           }
         },
         "head3": {
@@ -436,6 +592,12 @@
             "bold": true,
             "colorSlot": "lt1",
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.0,
+            "b": 0.0
           }
         },
         "card3": {
@@ -450,6 +612,12 @@
             "sizePt": 13.0,
             "sizePt2": 11.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.012,
+            "b": 0.012
           }
         },
         "head4": {
@@ -465,6 +633,12 @@
             "bold": true,
             "colorSlot": "lt1",
             "bulleted": false
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.0,
+            "b": 0.0
           }
         },
         "card4": {
@@ -479,6 +653,12 @@
             "sizePt": 13.0,
             "sizePt2": 11.0,
             "bulleted": true
+          },
+          "inset": {
+            "l": 0.01,
+            "r": 0.01,
+            "t": 0.012,
+            "b": 0.012
           }
         }
       }
