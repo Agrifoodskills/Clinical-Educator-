@@ -1,11 +1,20 @@
 id: clinical-educator
 title: Clinical Educator
 structure:
-- kind: module
-  title: Foundations of clinical teaching
-  children:
-  - block: 01-foundations-of-clinical-teaching
-- kind: module
-  title: Assessment and feedback
-  children:
-  - block: 02-feedback-that-changes-practice
+  - kind: module
+    title: Week 1
+    children:
+      - kind: module
+        title: Foundations of clinical teaching
+        children:
+          - block: 01-foundations-of-clinical-teaching
+  - kind: module
+    title: WEEK 2
+    children:
+      - kind: module
+        title: Assessment and feedback
+        children:
+          - block: 02-feedback-that-changes-practice
+  - kind: module
+    title: Week2
+    children: []
