@@ -1,0 +1,7 @@
+outcomes:
+  O1:
+    statement: Learning outcomes 1
+    develops: [CE1, CE2]
+    dok: 3
+  O2:
+    statement: ""
